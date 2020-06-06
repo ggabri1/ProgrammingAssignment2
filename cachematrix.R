@@ -1,5 +1,6 @@
-## Below are two functions that are used to create a special object that stores a matrix
-## cache's its inverse. 
+## It is time consuming and costly to calculate compute inverse matrices in R. 
+## Hence, below are two functions that are used to create a special object that stores a matrix
+## and subsequently cache's its inverse to use for later analysis if required
 
 ## Caching the inverse of a square matrix
 
